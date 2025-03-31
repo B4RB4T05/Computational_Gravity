@@ -32,13 +32,13 @@
 
 ## Równanie Różniczkowe
 - Przyśpieszenie względne dwóch mas:
-  $$
+$$
   \frac{d^2 r}{dt^2} = -\frac{2G}{r^2}.
-  $$
+$$
 - Warunki początkowe:
-  $$
+$$
   r(0) = 1 \, \text{m}, \quad \frac{dr}{dt}(0) = 0 \, \text{m/s}.
-  $$
+$$
 
 ---
 
